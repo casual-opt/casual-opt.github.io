@@ -1,0 +1,4 @@
+- label: Menu
+  items:
+    - name: Home
+      link: /

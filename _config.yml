@@ -2,3 +2,5 @@ theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 lang: ja
 theme_color: '#F00'
+show_sidebar: false
+menubar: menu
