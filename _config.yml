@@ -1,3 +1,3 @@
-
 remote_theme: chrisrhymes/bulma-clean-theme
 menubar: menu
+fixed_navbar: top
