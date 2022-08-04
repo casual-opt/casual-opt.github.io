@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <font color="red">C</font>asual<br /> <font color="red">O</font>ptimization
+title: Casual<br /> Optimization
 description: An casual community of mathematical optimization
 hero_height: is-medium
 hero_image: /assets/img/nasa.jpeg
