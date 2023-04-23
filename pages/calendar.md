@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 数理最適化カレンダー
+title: Calendar
 hide_hero: true
 ---
 
