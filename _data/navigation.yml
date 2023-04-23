@@ -1,6 +1,8 @@
 - name: Events
   link: /pages/events
   image: /assets/img/logo.png
+- name: Calendar
+  link: /pages/calendar
 # - name: Blog
 #   link: /blog/
 #   dropdown: 
