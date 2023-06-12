@@ -3,6 +3,8 @@
   image: /assets/img/logo.png
 - name: Calendar
   link: /pages/calendar
+- name: Readings
+  link: /pages/readings
 # - name: Blog
 #   link: /blog/
 #   dropdown: 
