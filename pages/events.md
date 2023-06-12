@@ -7,11 +7,11 @@ hide_hero: true
 
 # Events
 
+今後開催予定のイベント一覧です
 
 <div id="event_container" class="columns is-multiline"></div>
 
 # Past Events
-
 
 <div id="past_event_container" class="columns is-multiline"></div>
 
