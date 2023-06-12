@@ -12,9 +12,15 @@ Casual Optimization では開催中の輪読への参加者や、新たに輪読
 
 ### [A Mathematical View of Interior-Point Methods in Convex Optimization](https://epubs.siam.org/doi/book/10.1137/1.9780898718812)
 
-| 開始 | 終了 |
-|:----------:|:---:|
-| 2022-12-14 |     |
+<div class="column is-4-desktop is-6-tablet">
+    <div class="card">
+        <h5 class="card-header-title"><a href="https://epubs.siam.org/doi/book/10.1137/1.9780898718812">A Mathematical View of Interior-Point Methods in Convex Optimization</a></h5>
+        <ul>
+            <li>開始: 2022-12-14</li>
+            <li>終了:</li>
+        </ul>
+    </div>
+</div>
 
 ## 読了
 
